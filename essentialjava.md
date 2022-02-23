@@ -30,6 +30,7 @@ a date of birth, position of an image on the screen, current score in a game etc
 So we create variables to hold that data. A variable is a container, its you grabbing a little piece of computer
 memory and giving it a name, so that we can use it while our program is running.
 We create it, we name it, we put a value in it and we change the value as we need to.
+
 > In Java you create a variable like this:<br/>
 > Syntax: `<data type> <identifier name>;`<br/>
 > Examples:<br/>
