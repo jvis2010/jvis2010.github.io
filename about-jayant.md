@@ -15,7 +15,9 @@ scored 100%.
 
 > Jayant’s experience spans all phases of design, implementation and upgrade life cycle.
 
-> Currently, he spends his time consulting on Cloud and app developments projects, coaching young minds, besides traveling and writing.
+> Currently, he spends his time consulting on Cloud, data science and app developments projects, training & coaching people, young and old alike; besides traveling and writing in spare time.
+
+> He has keen interest in aerospace technologies, medical field, design thinking and public policy in adult education.
 
 > Jayant has completed his formal education in Aerospace Engineering. (B. Tech and M. Tech in Aerospace Engg. from IIT, Kanpur)
 <hr>
@@ -29,3 +31,7 @@ scored 100%.
 - Six Sigma Green Belt by CSC Corp Quality, Hyderabad
 - B. Tech. from IIT Kanpur
 - M. Tech. from IIT Kanpur
+
+<hr>
+For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com)<br>
+Your feedback helps us improve. Please write your feedback to us at: [feedbackjv@gmail.com](mailto:feedbackjv@gmail.com)
