@@ -14,9 +14,10 @@
 ## Hello Java
 - The main() method
 - Variables
-- Statements (note: statements describe all activities of a program; statements appear inside methods and classes)
-- Expressions (Expressions produce values; an expression is evaluated to produce a result that is to be used
-as part of another expression or in a statement)
+- Statements 
+> Note:<br> statements describe all activities of a program; statements appear inside methods and classes.
+- Expressions
+> Note:<br> Expressions produce values; an expression is evaluated to produce a result that is to be used as part of another expression or in a statement.
 
 <hr>
 
@@ -24,20 +25,18 @@ as part of another expression or in a statement)
 - Comments
 - Javadoc comments
 - Variables and Constants
-In just about every programming language and programs,
-In all programs and all programming languages, we have to keep track of many pieces of data email addresses,
+> Note: <br> In just about every programming language and programs, we have to keep track of many pieces of data email addresses,
 a date of birth, position of an image on the screen, current score in a game etc.
 So we create variables to hold that data. A variable is a container, its you grabbing a little piece of computer
 memory and giving it a name, so that we can use it while our program is running.
 We create it, we name it, we put a value in it and we change the value as we need to.
 > In Java you create a variable like this:<br/>
 > Syntax: `<data type> <identifier name>;`<br/>
-> Examples:
-> `int myInteger;`
-> `String myString;`
+> Examples:<br/>
+> `int myInteger;`<br/>
+> `String myString;`<br>
 
-Thus, variables store information that you plan to change and reuse over time.
-On the other, Constants store information that is, well, constant.
+> Thus, variables store information that you plan to change and reuse over time. On the other hand, Constants store information that is, well, constant.
 - Statements
 - Expressions
 - Types
@@ -64,7 +63,8 @@ On the other, Constants store information that is, well, constant.
 <hr>
 
 ## Objects in Java
-- Object creation (Note: we look at object creation in detail in a later section) 
+- Object creation
+> Note: we look at object creation in detail in a later section 
 - The instanceof operator
 - Arrays
 - Types and Classes and Arrays, Oh My!!
@@ -101,7 +101,8 @@ On the other, Constants store information that is, well, constant.
 
 <hr>
 
-## Text (Note: Parsing and formatting text is a large, open-ended topic.)
+## Text
+#### Note: Parsing and formatting text is a large, open-ended topic.
 - Constructing Strings
 - Strings from Objects
 - Comparing Strings
