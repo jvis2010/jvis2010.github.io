@@ -1,7 +1,7 @@
 ## Welcome One and All!!
 
 Hi, We are Jayant Vishnu & team.
-> If interested, you can read more about Jayant [here](about-jayant.md)
+> Find out more about Jayant [here](about-jayant.md)
 
 Currently offering various computer programming (also known as, AKA. *coding*) courses.
 
