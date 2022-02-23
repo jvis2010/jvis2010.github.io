@@ -19,4 +19,5 @@ Click on the below listing(s) to see the course topic details.
 
 
 <hr>
+For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com)<br>
 Your feedback helps us improve. Please write your feedback to us at: [feedbackjv@gmail.com](mailto:feedbackjv@gmail.com)
