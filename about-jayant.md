@@ -1,5 +1,6 @@
 # About me
-![Image](jv-sm.jpg)<br>
+![Image](jv-sm.jpg)
+<hr>
 Jayant has 18+ years of work experience in design, development, implementation, testing, training and production support of software systems and applications in the field of CAD/CAE/PLM, financial services and software products.
  
 Jayant has worked with various technologies, such as, C, C++, .Net, Java, SQL Server, 
@@ -10,8 +11,10 @@ certified ScrumMaster, AWS Certified Solution Architect and has
 TOGAF 9 certification for Enterprise Architecture. He is also a 
 Sun Certified Java Programmer (SCJP 1.4) wherein he had 
 scored 100%.
+<hr>
 
 > Jayant’s experience spans all phases of design, implementation and upgrade life cycle.
+
 > Currently, he spends his time consulting on Cloud and app developments projects, coaching young minds, besides traveling and writing.
 
 > Jayant has completed his formal education in Aerospace Engineering. (B. Tech and M. Tech in Aerospace Engg. from IIT, Kanpur)
