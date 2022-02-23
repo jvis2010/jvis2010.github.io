@@ -1,7 +1,9 @@
 # Essesntial Java topics
-## Necessary Java that's needed for good foundation in coding
+## Only the *Necessary* stuff, no fluff!!
 
- `System.out.println("Hello Java");`
+ ```
+ System.out.println("Hello Java");
+ ```
 
 ## Java Environment and Tools
 - Installing the JDK
@@ -15,6 +17,8 @@
 - Statements (note: statements describe all activities of a program; statements appear inside methods and classes)
 - Expressions (Expressions produce values; an expression is evaluated to produce a result that is to be used
 as part of another expression or in a statement)
+
+<hr>
 
 ## Java Language, Hello Again
 - Comments
@@ -57,6 +61,8 @@ On the other, Constants store information that is, well, constant.
 - Variable access
 - Method invocation
 
+<hr>
+
 ## Objects in Java
 - Object creation (Note: we look at object creation in detail in a later section) 
 - The instanceof operator
@@ -73,6 +79,8 @@ On the other, Constants store information that is, well, constant.
   - Argument passing
 - Method overloading
 
+<hr>
+
 ## Object creation
 - Constructors
 - Working with overloaded constructors
@@ -85,9 +93,13 @@ On the other, Constants store information that is, well, constant.
 - Member Visibility and Access
 - Compiling with Packages
 
+<hr>
+
 ## Advanced Class Design
 - Subclassing and Inheritance
 - Interfaces
+
+<hr>
 
 ## Text (Note: Parsing and formatting text is a large, open-ended topic.)
 - Constructing Strings
@@ -105,3 +117,5 @@ On the other, Constants store information that is, well, constant.
 - Time Zones
 - Parsing and Formatting Dates and Times
 - Parsing Errors
+
+<hr>
