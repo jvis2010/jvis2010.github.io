@@ -3,9 +3,9 @@
 Hi, We are Jayant Vishnu & team.
 > If interested, you can read more about Jayant [here](about-jayant.md)
 
-Currently offering various **Essential** programming (also known as, aka. *coding*) courses.
+Currently offering various computer programming (also known as, AKA. *coding*) courses.
 
-Click on the below listing(s) to see the each course topics details.
+Click on the below listing(s) to see the course topic details.
 
 > [Essential Java Programming](essentialjava.md)
 <hr>
