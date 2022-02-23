@@ -17,7 +17,7 @@ scored 100%.
 
 > Currently, he spends his time consulting on Cloud, data science and app developments projects, training & coaching people, young and old alike; besides traveling and writing in spare time.
 
-> He has keen interest in aerospace technologies, medical field, design thinking and public policy in adult education.
+> He has keen interest in aerospace technologies, medical field, design thinking, public policy in adult education and our Indian cultural heritage!
 
 > Jayant has completed his formal education in Aerospace Engineering. (B. Tech and M. Tech in Aerospace Engg. from IIT, Kanpur)
 <hr>
