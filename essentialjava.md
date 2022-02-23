@@ -25,8 +25,8 @@
 - Comments
 - Javadoc comments
 - Variables and Constants
-> Note: <br> In just about every programming language and programs, we have to keep track of many pieces of data email addresses,
-a date of birth, position of an image on the screen, current score in a game etc.
+> Note: <br> In just about every programming language and programs, we have to keep track of many pieces of data, such as marks in an exam, 
+a date of birth, email addresses, position of an image on the screen, current score in a game etc.
 So we create variables to hold that data. A variable is a container, its you grabbing a little piece of computer
 memory and giving it a name, so that we can use it while our program is running.
 We create it, we name it, we put a value in it and we change the value as we need to.
