@@ -4,7 +4,7 @@
 Jayant has 18+ years of work experience in design, development, implementation, testing, training and production support of software systems and applications in the field of CAD/CAE/PLM, financial services and software products.
  
 Jayant has worked with various technologies, such as, C, C++, .Net, Java, SQL Server, 
-Oracle, MySQL, JSP, MERN stack, Android apps and Python.
+Oracle, MySQL, JSP, MERN stack, Android apps, Python, AWS and Azure cloud.
 
 He is a PMI certified Project Management Professional (PMP). He is a 
 certified ScrumMaster, AWS Certified Solution Architect and has 
