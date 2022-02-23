@@ -121,4 +121,14 @@ We create it, we name it, we put a value in it and we change the value as we nee
 - Parsing and Formatting Dates and Times
 - Parsing Errors
 
+## Exception handling
+- Exceptions
+- try/catch clause
+- Stack traces
+- The finally clause
+- Throwing exceptions
+
 <hr>
+
+For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?"Course Enquiry")<br>
+Your feedback helps us improve. Please write your feedback to us at: [feedbackjv@gmail.com](mailto:feedbackjv@gmail.com?subject=Feedback)
