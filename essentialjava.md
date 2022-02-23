@@ -38,6 +38,7 @@ We create it, we name it, we put a value in it and we change the value as we nee
 > `String myString;`<br>
 
 > Thus, variables store information that you plan to change and reuse over time. On the other hand, Constants store information that is, well, constant.
+
 - Statements
 - Expressions
 - Types
