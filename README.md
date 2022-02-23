@@ -18,4 +18,5 @@ Click on the below listing(s) to see the course topic details.
 > Coming soon: [Essential Frontend with ReactJS]() <br>
 
 
-
+<hr>
+Your feedback helps us improve. Please write your feedback to us at: [feedbackjv@gmail.com](mailto:feedbackjv@gmail.com)
