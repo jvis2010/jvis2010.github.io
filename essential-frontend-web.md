@@ -8,20 +8,24 @@
    </body>
  </html>
  ```
+Initial HTML
+- What is HTML?
+- Basic HTML document
+- Body & anchor elements
+- Formatting elements
+- Creating Forms
 
-## Initial HTML
-- Installing the JDK
-- Configuring IDE
-- Creating a project
-- Running the project and inspecting output
+Cascading Stylesheets
+- Internal stylesheet
+- External Stylesheet
+- Inline Style
 
-## Hello Java
-- The main() method
-- Variables
-- Statements 
-> Note:<br> statements describe all activities of a program; statements appear inside methods and classes.
-- Expressions
-> Note:<br> Expressions produce values; an expression is evaluated to produce a result that is to be used as part of another expression or in a statement.
+<hr>
+
+Introduction to JavaScript
+- What is JavaScript
+- Features of JavaScript
+- JavaScript in HTML page
 
 <hr>
 
