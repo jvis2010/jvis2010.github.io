@@ -1,4 +1,4 @@
-## Welcome One and All!!
+## Start your coding journey today!
 
 Hi, We are Jayant Vishnu & team.
 > Find out more about Jayant [here](about-jayant.md)
