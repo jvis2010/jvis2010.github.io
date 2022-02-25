@@ -9,12 +9,17 @@ Click on the below listing(s) to see the course topic details.
 > [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 ```java
-/*
-* Today's the day you become a developer.
-* Only INR 1499/-
-* 16 sessions
-*/
+int fee = 1499; // Course fee, in INR
+int duration = 16; // 16 sessions
 ```
+<hr>
+
+> [Essential Front-End Web Development](essential-frontend-web.md) 🧑‍🏫 <br/>
+>    🎟️ 🕚
+| Fee           | INR 1499/-    |
+| ------------- |:-------------:|
+| Duration      | 14 sessions   |
+
 <hr>
 > Coming soon: [Essential Python Programming]() 
 
