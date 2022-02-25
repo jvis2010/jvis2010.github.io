@@ -34,8 +34,11 @@ We create it, we name it, we put a value in it and we change the value as we nee
 > In Java you create a variable like this:<br/>
 > Syntax: `<data type> <identifier name>;`<br/>
 > Examples:<br/>
-> `int myInteger;`<br/>
-> `String myString;`<br>
+```java
+int myInteger;
+String myString;
+char aSingleLetter;
+```
 
 > Thus, variables store information that you plan to change and reuse over time. On the other hand, Constants store information that is, well, constant.
 
