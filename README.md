@@ -17,9 +17,9 @@ int duration = 16; // 16 sessions
 > [Essential Front-End Web Development](essential-frontend-web.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 
-| Fee           | INR 1499/-    |
-| ------------- |:-------------:|
-| Duration      | 14 sessions   |
+>| Fee           | INR 1499/-    |
+>| ------------- |:-------------:|
+>| Duration      | 14 sessions   |
 
 <hr>
 > Coming soon: [Essential Python Programming]() 
