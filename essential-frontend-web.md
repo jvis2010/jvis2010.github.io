@@ -1,7 +1,7 @@
 # Essesntial Front-End Web Development
 ## Only the *Necessary* stuff for a great headstart!!
 
- ```
+ ```html
  <html>
    <body>
      Hello HTML!
@@ -30,6 +30,12 @@
 - What is JavaScript
 - Features of JavaScript
 - JavaScript in HTML page
+- Core JavaScript syntax
+- Working in the console
+ 
+## Handling Events with JavaScript
+- Understanding Document Object Model (DOM)
+- Accessing DOM elements
 
 <hr>
 
