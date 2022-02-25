@@ -5,13 +5,13 @@
  System.out.println("Hello Java");
  ```
 
-## Java Environment and Tools
+## 0. Java Environment and Tools
 - Installing the JDK
 - Configuring IDE
 - Creating a project
 - Running the project and inspecting output
 
-## Hello Java
+## 1. Hello Java
 - The main() method
 - Variables
 - Statements 
@@ -21,7 +21,7 @@
 
 <hr>
 
-## Java Language, Hello Again
+## 2. Java Language, Hello Again
 - Comments
 - Javadoc comments
 - Variables and Constants
@@ -48,7 +48,7 @@ char aSingleLetter;
 - Operators
 - Arrays
 
-## Statements and Expressions, Again
+## 3. Statements and Expressions, Again
 - Control flow statements
   - if/else conditionals
   - switch statements
@@ -67,14 +67,14 @@ char aSingleLetter;
 
 <hr>
 
-## Objects in Java
+## 4. Objects in Java
 - Object creation
 > Note: we look at object creation in detail in a later section 
 - The instanceof operator
 - Arrays
 - Types and Classes and Arrays, Oh My!!
 
-## Classes and Objects
+## 5. Classes and Objects
 - Declaring and Instantiating Classes
 - Accessing Fields and Methods
 - Access modifiers preview
@@ -86,13 +86,13 @@ char aSingleLetter;
 
 <hr>
 
-## Object creation
+## 6. Object creation
 - Constructors
 - Working with overloaded constructors
 - Object destruction
 - Wrappers for primitive types
 
-## Packages
+## 7. Packages
 - Importing classes
 - Custom Packages
 - Member Visibility and Access
@@ -100,13 +100,13 @@ char aSingleLetter;
 
 <hr>
 
-## Advanced Class Design
+## 8. Advanced Class Design
 - Subclassing and Inheritance
 - Interfaces
 
 <hr>
 
-## Text
+## 9. Text
 #### Note: Parsing and formatting text is a large, open-ended topic.
 - Constructing Strings
 - Strings from Objects
@@ -116,7 +116,7 @@ char aSingleLetter;
 - Parsing Numbers
 - Tokenizing Text
 
-## Utilities
+## 10. Utilities
 - The java.lang.Math Class
 - Local Dates and Times
 - Comparing and Manipulating Dates and Times
@@ -124,7 +124,7 @@ char aSingleLetter;
 - Parsing and Formatting Dates and Times
 - Parsing Errors
 
-## Exception handling
+## 11. Exception handling
 - Exceptions
 - try/catch clause
 - Stack traces
