@@ -1,5 +1,5 @@
 # Essesntial Front-End Web Development
-## Only the *Necessary* stuff for an effective learning, no fluff!!
+## Only the *Necessary* stuff for a great headstart!!
 
  ```
  <html>
@@ -8,21 +8,25 @@
    </body>
  </html>
  ```
-Initial HTML
+## Initial HTML
 - What is HTML?
 - Basic HTML document
 - Body & anchor elements
+- Viewing the webpage in the Browser
+- Browser Developer Tools
 - Formatting elements
 - Creating Forms
+- Adding content
+- Adding images
 
-Cascading Stylesheets
+## Cascading Stylesheets
 - Internal stylesheet
 - External Stylesheet
 - Inline Style
 
 <hr>
 
-Introduction to JavaScript
+## Introduction to JavaScript
 - What is JavaScript
 - Features of JavaScript
 - JavaScript in HTML page
@@ -53,24 +57,6 @@ We create it, we name it, we put a value in it and we change the value as we nee
 - Operators
 - Arrays
 
-## Statements and Expressions, Again
-- Control flow statements
-  - if/else conditionals
-  - switch statements
-- Looping statements
-  - do/while statement
-  - while statement
-  - the for statement
-  - the enhanced for loop
-- break/continue
-- Unreachable statements
-- Assignment
-- The null value
-- String type
-- Variable access
-- Method invocation
-
-<hr>
 
 ## Objects in Java
 - Object creation
@@ -79,62 +65,11 @@ We create it, we name it, we put a value in it and we change the value as we nee
 - Arrays
 - Types and Classes and Arrays, Oh My!!
 
-## Classes and Objects
-- Declaring and Instantiating Classes
-- Accessing Fields and Methods
-- Access modifiers preview
-- Methods
-  - Local variables
-  - Shadowing
-  - Argument passing
-- Method overloading
-
-<hr>
-
-## Object creation
-- Constructors
-- Working with overloaded constructors
-- Object destruction
-- Wrappers for primitive types
-
-## Packages
-- Importing classes
-- Custom Packages
-- Member Visibility and Access
-- Compiling with Packages
-
-<hr>
-
-## Advanced Class Design
-- Subclassing and Inheritance
-- Interfaces
-
 <hr>
 
 ## Text
 #### Note: Parsing and formatting text is a large, open-ended topic.
-- Constructing Strings
-- Strings from Objects
-- Comparing Strings
-- Searching
-- String Method Summary
-- Parsing Numbers
-- Tokenizing Text
 
-## Utilities
-- The java.lang.Math Class
-- Local Dates and Times
-- Comparing and Manipulating Dates and Times
-- Time Zones
-- Parsing and Formatting Dates and Times
-- Parsing Errors
-
-## Exception handling
-- Exceptions
-- try/catch clause
-- Stack traces
-- The finally clause
-- Throwing exceptions
 
 <hr>
 
