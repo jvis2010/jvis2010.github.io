@@ -32,50 +32,24 @@
 - JavaScript in HTML page
 - Core JavaScript syntax
 - Working in the console
- 
-## Handling Events with JavaScript
-- Understanding Document Object Model (DOM)
+- Arrays, Numbers & Strings
+
+## Understanding Document Object Model (DOM)
+- What is DOM
+- The DOM, Nodes and Objects
 - Accessing DOM elements
 
-<hr>
+## Applications of JavaScript in Web apps
+- Events and Event Listeners
+- Handling Events with JavaScript
+- JavaScript Libraries
 
-## Java Language, Hello Again
-- Comments
-- Javadoc comments
-- Variables and Constants
-> Note: <br> In just about every programming language and programs, we have to keep track of many pieces of data, such as marks in an exam, 
-a date of birth, email addresses, position of an image on the screen, current score in a game etc.
-So we create variables to hold that data. A variable is a container, its you grabbing a little piece of computer
-memory and giving it a name, so that we can use it while our program is running.
-We create it, we name it, we put a value in it and we change the value as we need to.
+## Introduction to Bootstrap
+- Adding Bootstrap
+- How Bootstrap works
+- Creating a Form
 
-> In Java you create a variable like this:<br/>
-> Syntax: `<data type> <identifier name>;`<br/>
-> Examples:<br/>
-> `int myInteger;`<br/>
-> `String myString;`<br>
-
-> Thus, variables store information that you plan to change and reuse over time. On the other hand, Constants store information that is, well, constant.
-
-- Statements
-- Expressions
-- Types
-- Operators
-- Arrays
-
-
-## Objects in Java
-- Object creation
-> Note: we look at object creation in detail in a later section 
-- The instanceof operator
-- Arrays
-- Types and Classes and Arrays, Oh My!!
-
-<hr>
-
-## Text
-#### Note: Parsing and formatting text is a large, open-ended topic.
-
+#### Note: JavaScript and CSS each is a vast area, having a basic knowledge of each helps you puts things in perspective.
 
 <hr>
 
