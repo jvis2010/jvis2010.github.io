@@ -6,11 +6,12 @@ Hi, We are Jayant Vishnu & team.
 Currently offering various computer programming (also known as, AKA. *coding*) courses.
 
 Click on the below listing(s) to see the course topic details.
-> [Essential Java Programming](essentialjava.md)
+> [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br>
+> :technologist: 🎟️ 🕚
 ```java
-// Today's the day you become a developer.
-// Only INR 1499/-
-// 16 sessions
+/* Today's the day you become a developer.
+* Only INR 1499/-
+* 16 sessions */
 ```
 <hr>
 > Coming soon: [Essential Python Programming]() 
