@@ -1,7 +1,7 @@
 # Essesntial Java topics
 ## Only the *Necessary* stuff, no fluff!!
 
- ```
+ ```java
  System.out.println("Hello Java");
  ```
 
