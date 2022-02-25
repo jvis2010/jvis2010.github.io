@@ -7,7 +7,7 @@ Currently offering various computer programming (also known as, AKA. *coding*) c
 
 Click on the below listing(s) to see the course topic details.
 > [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br/>
->   :technologist: 🎟️ 🕚
+>    🎟️ 🕚
 ```java
 /*
 * Today's the day you become a developer.
