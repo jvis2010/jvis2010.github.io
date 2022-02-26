@@ -9,7 +9,7 @@ Click on the below listing(s) to see the course topic details.
 > [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 ```java
-int fee = 1499; // Course fee, in INR
+int fee = 1999; // Course fee, in INR
 int duration = 16; // 16 sessions
 ```
 <hr>
@@ -19,7 +19,7 @@ int duration = 16; // 16 sessions
 
 >| Fee           |  Duration    |
 >| ------------- |:------------:|
->| INR 1199/-    | 12 sessions  |
+>| INR 1299/-    | 12 sessions  |
 
 <hr>
 > Coming soon: [Essential Python Programming]() 
@@ -32,5 +32,5 @@ int duration = 16; // 16 sessions
 
 
 <hr>
-For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?"Course Enquiry")<br>
+For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?subject="Course Enquiry")<br>
 Your feedback helps us improve. Please write your feedback to us at: [feedbackjv@gmail.com](mailto:feedbackjv@gmail.com?subject=Feedback)
