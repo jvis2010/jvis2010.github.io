@@ -58,5 +58,5 @@
 
 <hr>
 
-For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?"Course Enquiry")<br>
+For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?subject="Course Enquiry")<br>
 Your feedback helps us improve. Please write your feedback to us at: [feedbackjv@gmail.com](mailto:feedbackjv@gmail.com?subject=Feedback)
