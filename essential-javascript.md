@@ -7,6 +7,12 @@ Then it focuses on the main concepts in programming in JavaScript: variables, op
 Lots of examples are provided with helpful explanations.
 The course focuses on interactive programming, so be prepared to type out programs and program fragments as part of course.
 You can ask as many questions as you want!
+
+```javascript
+var s = "JavaScript, here I come!";
+alert(s);
+```
+
 <hr>
 
 ## 0. Basic HTML
