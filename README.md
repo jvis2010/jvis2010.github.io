@@ -9,11 +9,16 @@ Click on the below listing(s) to see the course topic details.
 > [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 ```java
-double courseFee = 29.0; // Course fee, in USD. Only 29 US dollars.
-int coursedDuration = 16; // course length is 16 sessions
-double eachSessionDuration = 55; // each session will be of 55 minuntes duration
-String courseLanguage = "English"; // course will be primarily delivered in English, but local langauge is used if needed
-String courseLocation = "Online"; // currently course is Online, but Offline classes available on request.
+// Course fee, in USD. Only 29 US dollars.
+double courseFee = 29.0;
+// course length is 16 sessions
+int coursedDuration = 16; 
+// each session will be of 55 minuntes duration
+double eachSessionDuration = 55;
+// course will be primarily delivered in English, but local langauge is used if needed
+String courseLanguage = "English";
+// currently course is Online, but Offline classes available on request.
+String courseLocation = "Online"; 
 ```
 <hr>
 
@@ -29,11 +34,16 @@ String courseLocation = "Online"; // currently course is Online, but Offline cla
 > [Essential JavaScript (JS) Programming](essential-javascript.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 ```javascript
-var courseFee = 29.0; // Course fee, in USD. Only 29 US dollars.
-var coursedDuration = 16; // course length is 16 sessions
-var eachSessionDuration = 55; // each session will be of 55 minuntes duration
-const courseLanguage = "English"; // course will be primarily delivered in English, but local langauge is used if needed
-const courseLocation = "Online"; // currently course is Online, but Offline classes available on request.
+// Course fee, in USD. Only 29 US dollars.
+var courseFee = 29.0;
+// course length is 16 sessions
+var coursedDuration = 16;
+// each session will be of 55 minuntes duration
+var eachSessionDuration = 55;
+// course will be primarily delivered in English, but local langauge is used if needed
+const courseLanguage = "English";
+// currently course is Online, but Offline classes available on request.
+const courseLocation = "Online"; 
 ```
 
 <hr>
