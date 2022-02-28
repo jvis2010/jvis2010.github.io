@@ -25,9 +25,20 @@ String courseLocation = "Online"; // currently course is Online, but Offline cla
 >| USD 19        | 12 sessions  | Online        | 55 minutes   | English   |
 
 <hr>
-> Coming soon: [Essential Python Programming]() 
 
-> Coming soon: [Essential JavaScript (JS) Programming]() 
+> [Essential JavaScript (JS) Programming](essential-javascript.md) 🧑‍🏫 <br/>
+>    🎟️ 🕚
+```javascript
+var courseFee = 29.0; // Course fee, in USD. Only 29 US dollars.
+var coursedDuration = 16; // course length is 16 sessions
+var eachSessionDuration = 55; // each session will be of 55 minuntes duration
+const courseLanguage = "English"; // course will be primarily delivered in English, but local langauge is used if needed
+const courseLocation = "Online"; // currently course is Online, but Offline classes available on request.
+```
+
+<hr>
+
+> Coming soon: [Essential Python Programming]() 
 
 > Coming soon: [Essential API development with Node.js]() 
 
