@@ -9,17 +9,20 @@ Click on the below listing(s) to see the course topic details.
 > [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 ```java
-int fee = 1999; // Course fee, in INR
-int duration = 16; // 16 sessions
+double courseFee = 29.0; // Course fee, in USD. Only 29 US dollars.
+int coursedDuration = 16; // course length is 16 sessions
+double eachSessionDuration = 55; // each session will be of 55 minuntes duration
+String courseLanguage = "English"; // course will be primarily delivered in English, but local langauge is used if needed
+String courseLocation = "Online"; // currently course is Online, but Offline classes available on request.
 ```
 <hr>
 
 > [Essential Front-End Web Development](essential-frontend-web.md) 🧑‍🏫 <br/>
 >    🎟️ 🕚
 
->| Fee           |  Duration    |
->| ------------- |:------------:|
->| INR 1299/-    | 12 sessions  |
+>| Fee           |  Duration    |  Location     | One Session  | Langauge  |
+>| ------------- |:------------:| ------------- |:------------:|:---------:|
+>| USD 19        | 12 sessions  | Online        | 55 minutes   | English   |
 
 <hr>
 > Coming soon: [Essential Python Programming]() 
