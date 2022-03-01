@@ -12,7 +12,7 @@ Click on the below listing(s) to see the course topic details.
 // Course fee, in USD. Only 29 US dollars.
 double courseFee = 29.0;
 // course length is 16 sessions
-int coursedDuration = 16; 
+int courseDuration = 16; 
 // each session will be of 55 minuntes duration
 double eachSessionDuration = 55;
 // course will be primarily delivered in English, but local langauge is used if needed
@@ -37,7 +37,7 @@ String courseLocation = "Online";
 // Course fee, in USD. Only 29 US dollars.
 var courseFee = 29.0;
 // course length is 16 sessions
-var coursedDuration = 16;
+var courseDuration = 16;
 // each session will be of 55 minuntes duration
 var eachSessionDuration = 55;
 // course will be primarily delivered in English, but local langauge is used if needed
