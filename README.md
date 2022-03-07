@@ -48,7 +48,21 @@ const courseLocation = "Online";
 
 <hr>
 
-> Coming soon: [Essential Python Programming]() 
+> [Essential Python Programming](essential-python.md) 🧑‍🏫 <br/>
+>    🎟️ 🕚
+```python
+# Course fee, in USD. Only 29 US dollars.
+courseFee = 29.0
+# course length is 16 sessions
+courseDuration = 16
+# each session will be of 55 minuntes duration
+eachSessionDuration = 55
+# course will be primarily delivered in English, but local langauge is used if needed
+courseLanguage = 'English'
+# currently course is Online, but Offline classes available on request.
+courseLocation = 'Online' 
+```
+<hr>
 
 > Coming soon: [Essential API development with Node.js]() 
 
