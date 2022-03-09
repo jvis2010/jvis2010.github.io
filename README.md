@@ -64,6 +64,15 @@ courseLocation = 'Online'
 ```
 <hr>
 
+> [Essential Data structures and Algorithms](essential-datastructures-algorithms.md) 🧑‍🏫 <br/>
+>    🎟️ 🕚
+```python
+# Click on the above course link for more details.
+```
+<hr>
+
+
+
 > Coming soon: [Essential API development with Node.js]() 
 
 > Coming soon: [Essential Frontend with ReactJS]() <br>
