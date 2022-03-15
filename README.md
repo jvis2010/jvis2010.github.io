@@ -1,6 +1,5 @@
 ## Start your coding journey today!
 
-Hi, We are Jayant Vishnu & team.
 > Find out more about Jayant [here](about-jayant.md)
 
 Currently offering various computer programming (also known as, AKA. *coding*) courses.
