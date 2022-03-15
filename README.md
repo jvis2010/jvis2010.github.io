@@ -5,8 +5,7 @@
 Currently offering various computer programming (also known as, AKA. *coding*) courses.
 
 Click on the below listing(s) to see the course topic details.
-> [Essential Java Programming](essentialjava.md) 🧑‍🏫 <br/>
->    🎟️ 🕚
+> [Essential Java Programming](essentialjava.md)<br/>
 ```java
 // Course fee, in USD. Only 29 US dollars.
 double courseFee = 29.0;
@@ -14,15 +13,14 @@ double courseFee = 29.0;
 int courseDuration = 16; 
 // each session will be of 55 minuntes duration
 double eachSessionDuration = 55;
-// course will be primarily delivered in English, but local langauge is used if needed
+// course will be delivered in English, semi-English
 String courseLanguage = "English";
-// currently course is Online, but Offline classes available on request.
-String courseLocation = "Online"; 
+// Online & Offline, both
+String courseLocation = "Online and Offline"; 
 ```
 <hr>
 
-> [Essential Front-End Web Development](essential-frontend-web.md) 🧑‍🏫 <br/>
->    🎟️ 🕚
+> [Essential Front-End Web Development](essential-frontend-web.md)<br/>
 
 >| Fee           |  Duration    |  Location     | One Session  | Langauge  |
 >| ------------- |:------------:| ------------- |:------------:|:---------:|
@@ -30,8 +28,7 @@ String courseLocation = "Online";
 
 <hr>
 
-> [Essential JavaScript (JS) Programming](essential-javascript.md) 🧑‍🏫 <br/>
->    🎟️ 🕚
+> [Essential JavaScript (JS) Programming](essential-javascript.md)<br/>
 ```javascript
 // Course fee, in USD. Only 29 US dollars.
 var courseFee = 29.0;
@@ -39,16 +36,15 @@ var courseFee = 29.0;
 var courseDuration = 16;
 // each session will be of 55 minuntes duration
 var eachSessionDuration = 55;
-// course will be primarily delivered in English, but local langauge is used if needed
+// course will be delivered in English, semi-English
 const courseLanguage = "English";
-// currently course is Online, but Offline classes available on request.
-const courseLocation = "Online"; 
+// Online and Offline, both
+const courseLocation = "Online and Offline"; 
 ```
 
 <hr>
 
-> [Essential Python Programming](essential-python.md) 🧑‍🏫 <br/>
->    🎟️ 🕚
+> [Essential Python Programming](essential-python.md)<br/>
 ```python
 # Course fee, in USD. Only 29 US dollars.
 courseFee = 29.0
@@ -56,21 +52,22 @@ courseFee = 29.0
 courseDuration = 16
 # each session will be of 55 minuntes duration
 eachSessionDuration = 55
-# course will be primarily delivered in English, but local langauge is used if needed
+# course will be delivered in English, semi-English
 courseLanguage = 'English'
-# currently course is Online, but Offline classes available on request.
-courseLocation = 'Online' 
+# Online and Offline, both
+courseLocation = 'Online and Offline' 
 ```
 <hr>
 
-> [Essential Data structures and Algorithms](essential-datastructures-algorithms.md) 🧑‍🏫 <br/>
->    🎟️ 🕚
+> [Essential Data structures and Algorithms](essential-datastructures-algorithms.md)<br/>
 ```python
 # Click on the above course link for more details.
 ```
 <hr>
-
-
+[Web Development - Full Stack Developer Webinar](fullstack-developer-webinar.md)<br/>
+```javascript
+// Free webinar explaining the "Full Stack" paradigm
+```
 
 > Coming soon: [Essential API development with Node.js]() 
 
