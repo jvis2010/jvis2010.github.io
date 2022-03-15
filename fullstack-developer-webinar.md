@@ -20,7 +20,14 @@ For information regarding fee and course delivery, please write to us at:<br>
 - Bottom-up vs. Top-down approach - different ways of working on an application
 - What a programmer must know about app Admin tasks
 - Polyglot programming
-  - How different technologies are used together to deliver a modern web application 
+  - How different technologies are used together to deliver a modern web application
+  > Note: <br> Polyglot programming is the future of software application development, and the future is already here! <br>
+  > Polyglot programming refers to building applications using one or more special-purpose languages in addition to
+  > to a general-purpose language. <br>
+  > When we build web applications today, we primarily a general-purpose language (Java, Python etc.), SQL, HTML, CSS and JavaScript (in the form of various libraries). <br>
+  > An experienced programmer already is polyglot, without even thinking about it. <br>
+  > For example, SQL is so closely entwined into software application development that we take it for granted.
+  > The polyglot style of development will continue in the future in different styles!
 - What a customer wants - non-technical skills aka. Soft-skills
 
 ---
