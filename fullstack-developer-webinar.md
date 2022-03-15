@@ -15,7 +15,11 @@ For information regarding fee and course delivery, please write to us at:<br>
 
 ## 0. Roadmap
 - Different moving parts of a typical web application
+  - Back-end API
+  - Front-end UI
 - What does it mean to be a Full Stack developer
+  - Back-end specialisation
+  - Front-end specialisation
 - Understanding the role of the Full Stack developer
 - Bottom-up vs. Top-down approach - different ways of working on an application
 - What a programmer must know about app Admin tasks
@@ -26,7 +30,7 @@ For information regarding fee and course delivery, please write to us at:<br>
   > to a general-purpose language. <br>
   > When we build web applications today, we primarily a general-purpose language (Java, Python etc.), SQL, HTML, CSS and JavaScript (in the form of various libraries). <br>
   > An experienced programmer already is polyglot, without even thinking about it. <br>
-  > For example, SQL is so closely entwined into software application development that we take it for granted.
+  > For example, SQL is so closely entwined into software application development that we take it for granted.<br>
   > The polyglot style of development will continue in the future in different styles!
 - What a customer wants - non-technical skills aka. Soft-skills
 
