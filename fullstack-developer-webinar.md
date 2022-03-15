@@ -1,13 +1,11 @@
 ## Web Applications - Full Stack Developer
 
-This aim of this short workshop is to explain the paradigm of "Full Stack" in web application development.
+The aim of this short workshop is to explain the paradigm of "Full Stack" in web application development.
 
 ### Description and Roadmap
 This free workshop is created to introduce the paradigm of Full Stack web application development work.
-
 In this short module we familiarize participants with the basics of web application development, different components
 of a web based application and what every programmer must know about different issues involved in web development.
-
 We will explain about the different technologies and tools required to succeed in Full Stack development.
 
 For information regarding fee and course delivery, please write to us at:<br>
