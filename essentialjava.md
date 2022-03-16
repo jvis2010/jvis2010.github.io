@@ -1,5 +1,8 @@
-# Essesntial Java topics
-## Only the *Necessary* stuff, no fluff!!
+# Essesntial Java programming
+
+This course will cover the basic knowledge needed for writing Java programs.
+Participants will write, compile and execute Java programs, with special emphasis on basics, programming techniques and
+key practices of object-oriented programming.
 
  ```java
  System.out.println("Hello Java");
