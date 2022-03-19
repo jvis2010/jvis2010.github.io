@@ -8,13 +8,13 @@ key practices of object-oriented programming.
  System.out.println("Hello Java");
  ```
 
-## 0. Java Environment and Tools
+### 0. Java Environment and Tools
 - Installing the JDK
 - Configuring IDE
 - Creating a project
 - Running the project and inspecting output
 
-## 1. Hello Java
+### 1. Hello Java
 - The main() method
 - Variables
 - Statements 
@@ -24,7 +24,7 @@ key practices of object-oriented programming.
 
 <hr>
 
-## 2. Java Language, Hello Again
+### 2. Java Language, Hello Again
 - Comments
 - Javadoc comments
 - Variables and Constants
@@ -51,7 +51,7 @@ char aSingleLetter;
 - Operators
 - Arrays
 
-## 3. Statements and Expressions, Again
+### 3. Statements and Expressions, Again
 - Control flow statements
   - if/else conditionals
   - switch statements
@@ -70,14 +70,14 @@ char aSingleLetter;
 
 <hr>
 
-## 4. Objects in Java
+### 4. Objects in Java
 - Object creation
 > Note: we look at object creation in detail in a later section 
 - The instanceof operator
 - Arrays
 - Types and Classes and Arrays, Oh My!!
 
-## 5. Classes and Objects
+### 5. Classes and Objects
 - Declaring and Instantiating Classes
 - Accessing Fields and Methods
 - Access modifiers preview
@@ -89,13 +89,13 @@ char aSingleLetter;
 
 <hr>
 
-## 6. Object creation
+### 6. Object creation
 - Constructors
 - Working with overloaded constructors
 - Object destruction
 - Wrappers for primitive types
 
-## 7. Packages
+### 7. Packages
 - Importing classes
 - Custom Packages
 - Member Visibility and Access
@@ -103,13 +103,13 @@ char aSingleLetter;
 
 <hr>
 
-## 8. Advanced Class Design
+### 8. Advanced Class Design
 - Subclassing and Inheritance
 - Interfaces
 
 <hr>
 
-## 9. Text
+### 9. Text
 #### Note: Parsing and formatting text is a large, open-ended topic.
 - Constructing Strings
 - Strings from Objects
@@ -119,7 +119,7 @@ char aSingleLetter;
 - Parsing Numbers
 - Tokenizing Text
 
-## 10. Utilities
+### 10. Utilities
 - The java.lang.Math Class
 - Local Dates and Times
 - Comparing and Manipulating Dates and Times
@@ -127,7 +127,7 @@ char aSingleLetter;
 - Parsing and Formatting Dates and Times
 - Parsing Errors
 
-## 11. Exception handling
+### 11. Exception handling
 - Exceptions
 - try/catch clause
 - Stack traces
