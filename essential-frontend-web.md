@@ -54,7 +54,8 @@
 - XMLHttpRequest Objects
 - RESTful Web Services
 
-##### Note: Having a basic knowledge of JavaScript and CSS helps you puts things in perspective, make sense of many JS & CSS frameworks and generally understand next steps in Web development.
+##### Note:
+>Having a basic knowledge of JavaScript and CSS helps you puts things in perspective, make sense of many JS & CSS frameworks and generally understand next steps in Web development.
 
 <hr>
 
