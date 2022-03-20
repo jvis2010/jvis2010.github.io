@@ -14,7 +14,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 
 <hr>
 
-## 0. Introduction
+#### 0. Introduction
 - Problems and Solutions
 - Data Structures and Algorithms
 - Time and Space Complexity
@@ -23,7 +23,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - Arrays, 1D, 2D, Jagged and Multi-Dimensional Arrays
 
 ---
-## 1. Searching and Sorting
+#### 1. Searching and Sorting
 - Linear vs Binary Search
 - Advantages and Disadvantages of Recursion vs Iteration
 - Factorial, Fibonacci Numbers, GCD Algorithm, Binary Search
@@ -34,7 +34,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - Counting sort, Radix sort, Bucket sort
 
 ---
-## 2. Lists, Stacks and Queues
+#### 2. Lists, Stacks and Queues
 - Singly Linked Lists, insert and print
 - Singly Linked Lists: search and delete
 - Abstract Data Types, List as an ADT
@@ -45,7 +45,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - Applications of Queues
 
 ---
-## 3. Trees and their applications
+#### 3. Trees and their applications
 - Tree Representations and Traversal Algorithms
 - Binary Tree Representation and Traversal Algorithms
 - BT construction from inorder and pre/postorder
@@ -59,7 +59,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - B-Trees and B+-Trees
 
 ---
-## 4. Hashing
+#### 4. Hashing
 - Hash tables and hash functions
 - Open addressing, separate chaining, rehashing
 - Sets and their implementation
@@ -67,7 +67,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - Dictionary and Trie
 
 ---
-## 5. Graphs and their applications
+#### 5. Graphs and their applications
 - Directed and Undirected Graphs, Adjacency Matrix
 - Adjacency Lists
 - DFS, BFS 
@@ -81,7 +81,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - Minimum cost spanning tree – Kruskal
 
 ---
-## 6. Algorithm Design Techniques
+#### 6. Algorithm Design Techniques
 - Divide and Conquer 1
 - Divide and Conquer 2
 - Divide and Conquer 3
@@ -99,7 +99,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - FFT and Polynomial Multiplication
 
 ---
-## 7. Miscellaneous Problems and Interview Questions
+#### 7. Miscellaneous Problems and Interview Questions
 
 <hr>
 For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?subject="Course Enquiry")<br>
