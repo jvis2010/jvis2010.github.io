@@ -8,7 +8,7 @@
    </body>
  </html>
  ```
-## 0. Initial HTML
+#### 0. Initial HTML
 - What is HTML?
 - Basic HTML document
 - Body & anchor elements
@@ -19,14 +19,14 @@
 - Adding content
 - Adding images
 
-## 1. Cascading Stylesheets
+#### 1. Cascading Stylesheets
 - Internal stylesheet
 - External Stylesheet
 - Inline Style
 
 <hr>
 
-## 2. Introduction to JavaScript
+#### 2. Introduction to JavaScript
 - What is JavaScript
 - Features of JavaScript
 - JavaScript in HTML page
@@ -34,27 +34,27 @@
 - Working in the console
 - Arrays, Numbers & Strings
 
-## 3. Understanding Document Object Model (DOM)
+#### 3. Understanding Document Object Model (DOM)
 - What is DOM
 - The DOM, Nodes and Objects
 - Accessing DOM elements
 
-## 4. Applications of JavaScript in Web apps
+#### 4. Applications of JavaScript in Web apps
 - Events and Event Listeners
 - Handling Events with JavaScript
 - JavaScript Libraries
 
-## 5. Introduction to Bootstrap
+#### 5. Introduction to Bootstrap
 - Adding Bootstrap
 - How Bootstrap works
 - Creating a Form
 
-## 6. Misc
+#### 6. Misc
 - Introduction to jQuery
 - XMLHttpRequest Objects
 - RESTful Web Services
 
-#### Note: JavaScript and CSS each is a vast area, having a basic knowledge of each helps you puts things in perspective, make sense of many JS & CSS frameworks and generally understand next steps in Web development.
+##### Note: Having a basic knowledge of JavaScript and CSS helps you puts things in perspective, make sense of many JS & CSS frameworks and generally understand next steps in Web development.
 
 <hr>
 
