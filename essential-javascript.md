@@ -13,12 +13,12 @@ alert(s);
 
 <hr>
 
-## 0. Basic HTML
+#### 0. Basic HTML
 - Structure of HTML
 - blocks, images, links, lists, headers, tables, forms
 
 ---
-## 1. Basic CSS
+#### 1. Basic CSS
 - CSS on element
 - CSS in HTML
 - CSS in a separate file
@@ -29,7 +29,7 @@ alert(s);
 - CSS selectors
 
 ---
-## 2. Programming basics
+#### 2. Programming basics
 - Printing to the console
 - Simplest operators
 - Variables
@@ -39,20 +39,20 @@ alert(s);
 - Functions
 
 ---
-## 3. JavaScript Data Types
+#### 3. JavaScript Data Types
 - Arrays, Objects & Strings (with basic operations)
 - Strings interpolation
 - Working with null and undefined
 
 ---
-## 4. Event listeners
+#### 4. Event listeners
 - What is event
 - Create HTML with events
 - Attach events on the fly
 - Timers
 
 ---
-## 5. Working with the server
+#### 5. Working with the server
 - Requests to server
 - Async/await
 - Browser HTTP requests with Fetch() 
