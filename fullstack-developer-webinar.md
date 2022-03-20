@@ -2,7 +2,7 @@
 
 The aim of this short workshop is to explain the paradigm of "Full Stack" in web application development.
 
-### Description and Roadmap
+#### Description and Roadmap
 This free workshop is created to introduce the paradigm of Full Stack web application development work.
 In this short module we familiarize participants with the basics of web application development, different components
 of a web based application and what every programmer must know about different issues involved in web development.
@@ -13,7 +13,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 
 <hr>
 
-## 0. Roadmap
+#### 0. Roadmap
 - Different moving parts of a typical web application
   - Back-end API
   - Front-end UI
@@ -35,7 +35,7 @@ For information regarding fee and course delivery, please write to us at:<br>
 - What a customer wants - non-technical skills aka. Soft-skills
 
 ---
-## 1. Miscellaneous Questions and Answers
+#### 1. Miscellaneous Questions and Answers
 
 <hr>
 For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?subject="Course Enquiry")<br>
