@@ -11,7 +11,7 @@ print(s)
 
 <hr>
 
-## 0. Introduction to Python
+#### 0. Introduction to Python
 - Why Python?
 - Installing Python
 - Executing Python Code
@@ -24,19 +24,19 @@ print(s)
 - Debugging Python scripts
 
 ---
-## 1. Data types
+#### 1. Data types
 - Basic types: Numerical types of data
 - Basic types: String type
 
 ---
-## 2. Program control flow
+#### 2. Program control flow
 - Conditionals
 - Conditional operator
 - Python loops - the while and for loop
 - Additional controls
 
 ---
-## 3. Python data structures
+#### 3. Python data structures
 - Basic data structures
 - List and tuples
 - Dictionaries
@@ -44,7 +44,7 @@ print(s)
 - List comprehension
 
 ---
-## 4. Functions
+#### 4. Functions
 - Defining a function
 - Function arguments
 - Returning function values
@@ -53,33 +53,33 @@ print(s)
 - Keyword arguments
 
 ---
-## 5. Python object-oriented programming
+#### 5. Python object-oriented programming
 - Classes and objects
 - Constructor, fields, and methods
 - Inheritance and polymorphism
 - Exception-based error handling
 
 ---
-## 6. String objects
+#### 6. String objects
 - Overview of string objects
 - Common string methods
 - Formatting strings
 - Splitting and joining
 
 ---
-## 7. I/O operations
+#### 7. I/O operations
 - Basic file operations
 - Text vs. binary mode
 - Text files
 - Binary files
 
 ---
-## 8. Built-in functions
+#### 8. Built-in functions
 - Numeric functions
 - Container functions
 
 ---
-## 9. Modules
+#### 9. Modules
 - Using standard modules
 - Creating a module
 
