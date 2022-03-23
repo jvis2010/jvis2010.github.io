@@ -2,11 +2,11 @@
 
 This goal of this essential course is to familiarize/re-familiarize students with common data structures, algorithms, complexity analyses and algorithm design techniques.
 
-### Duration
+#### Duration
 Approximately 80 hours with 4 hours per week online class.
 Some hours will be used for interview preparation.
 
-### Assignment Submission
+#### Assignment Submission
 Students will submit assignments on a regular basis.
 
 For information regarding fee and course delivery, please write to us at:<br>
