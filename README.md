@@ -69,6 +69,12 @@ courseLocation = 'Online and Offline'
 // Free webinar explaining the "Full Stack" paradigm
 ```
 
+<hr>
+[Web Development - Backend specialization](web-development-backend-specialization.md)<br/>
+```javascript
+// A comprehensive course, with intensive classroom teaching and project work.
+```
+
 > Coming soon: [Essential API development with Node.js]() 
 
 > Coming soon: [Essential Frontend with ReactJS]() <br>
