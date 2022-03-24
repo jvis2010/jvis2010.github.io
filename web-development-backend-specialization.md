@@ -44,8 +44,8 @@ For information regarding fee and course delivery, please write to us at:<br>
 
 ---
 #### 4. Accessing API from Browser
-- N-FIND
-- Dictionary and Trie
+- The query string
+- Browser HTTP requests
 
 ---
 #### 5. AXIOS Library, WebSocket
@@ -56,16 +56,36 @@ For information regarding fee and course delivery, please write to us at:<br>
 
 ---
 #### 6. Application Deployment to Cloud
-- Divide and Conquer 1
-- Divide and Conquer 2
+- Intro to GitHub and Heroku
+- Version control with git
+- Pushing code to GitHub
+- Deploying your code to Heroku
 
+---
 #### 7. API Auth and security
+- API authentication and security
+- JSON web tokens
+- Express middleware
+- Accepting authentication tokens
+- Logging out
 
 ---
-#### 8. Capstone Project.
+#### 8. MongoDB and Promises
+- MongoDB and NoSQL databases
+- Installation and MongoDB environment
+- Database GUI viewer
+- CRUD operations
+- MongoDB data model
+- Promises
 
 ---
-#### 9. Miscellaneous Problems and Interview Questions
+#### 9. Capstone Project.
+- Participants will work on developing a food ordering web application.
+- Project code should be submitted via GitHub
+- Submit the necessary design documents along with the code
+
+---
+#### 10. Miscellaneous Problems and Interview Questions
 
 <hr>
 For course enquiries, write to us at: [contactjvis@gmail.com](mailto:contactjvis@gmail.com?subject="Course Enquiry")<br>
